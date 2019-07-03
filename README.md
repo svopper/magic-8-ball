@@ -15,7 +15,6 @@
 $ go build main.go
 $ ./main [question]
 ```
-Question should be surrounded with double quotes ""
 
 ## Author
 
